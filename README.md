@@ -1,2 +1,2 @@
 # Malicous_IP_Checker
-Malicious IP checker checks regarding the maliciousness of an IP address by checking it's reputation against various websites such as AbuseIPDB and VirusTotal. It shows you the abuse contact and the domain information from WHOIS and you can also report the IP address which you feel is malicious back to the community of AbuseIPDB. 
+Malicious IP checker checks the reputation of an IP address against VirusTotal and AbuseIPDB. It collects information from VirusTotal regarding how many engines marked the IP as malware or malicious. It shows you the abuse contact and the domain information from WHOIS and you can also report the IP address which you feel is malicious back to the community of AbuseIPDB. 
